@@ -1,0 +1,9 @@
+Metropolis is a major upgrade to the Ethereum network that introduced several improvements and new features to the Solidity programming language. However, like any software, it has some weaknesses that should be taken into account when developing smart contracts.
+
+One of the potential weak points of Metropolis in Solidity is the increased complexity that comes with the new features. For example, the introduction of the new opcode REVERT in Metropolis allows for better error handling in smart contracts, but it also adds another layer of complexity to the code. This increased complexity can make the code harder to read, understand, and debug, which can increase the likelihood of errors and vulnerabilities.
+
+Another potential weak point of Metropolis in Solidity is the risk of introducing new bugs and vulnerabilities. Whenever a new feature is added to the language, there is a possibility that it could contain bugs or vulnerabilities that could be exploited by attackers. Solidity is a powerful language that allows for complex logic and computations, but it also requires careful consideration and testing to ensure that the code is secure.
+
+Finally, it is important to note that the introduction of new features in Metropolis may not be backwards compatible with previous versions of Solidity. This means that smart contracts developed on older versions of Solidity may need to be updated or modified to work with the new version, which can be time-consuming and expensive.
+
+In summary, while Metropolis introduces several improvements to Solidity, it also has potential weaknesses that should be taken into account when developing smart contracts. These include increased complexity, the risk of introducing new bugs and vulnerabilities, and the need to update older contracts to work with the new version of Solidity.
